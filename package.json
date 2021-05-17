@@ -1,0 +1,14 @@
+{
+  "name": "computer",
+  "version": "1.0.0",
+  "description": "My calculator",
+  "main": "computer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enugu Deepika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
